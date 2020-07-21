@@ -1,0 +1,13 @@
+# Visual Studio
+*/Properties
+*/.vs
+*/bin
+
+# CSharp
+*.sln
+*.csproj
+*.csproj.user
+*/obj
+
+# MacOS
+.DS_Store
